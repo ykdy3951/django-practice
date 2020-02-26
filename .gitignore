@@ -3,5 +3,4 @@
 __pycacche__
 fcdjango_venv
 db.sqlite3
-/static
 .DS_Store
